@@ -1,7 +1,5 @@
 # locast2dvr-sparkyfree
 
-[![Build Status](https://travis-ci.com/wouterdebie/locast2dvr.svg?branch=main)](https://travis-ci.com/wouterdebie/locast2dvr)
-
 This application provides an interface between locast.org and [Plex Media Server (PMS)](https://plex.tv) or [Emby](https://emby.media) by acting like a [HDHomerun](https://www.silicondust.com/) or an m3u Tuner and an XMLTV provider.
 
 `locast2dvr` can imitate one or more digital tuners and provides geo cloaking across regions.
@@ -21,7 +19,7 @@ Even though this project started as a locast to PMS interface, it's more focused
 
 ## Prerequisites
 - Python >= 3.6
-- An active locast.org account with an active donation is optional, this version of locast2dvr allows you to stream without a donation, but it is limited to 5 minutes (without looping the stream, at least).
+- An active locast.org account with an active donation is optional, this version of locast2dvr allows you to stream without a donation, but it is limited to 5 minutes (without looping the stream, at least) and thus DVR has some issues with the free version (or so I have heard).
 - [ffmpeg](https://ffmpeg.org/) installed and available on your `$PATH`.
 
 
