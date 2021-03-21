@@ -1,4 +1,4 @@
-# locast2dvr=sparkyfree
+# locast2dvr-sparkyfree
 
 [![Build Status](https://travis-ci.com/wouterdebie/locast2dvr.svg?branch=main)](https://travis-ci.com/wouterdebie/locast2dvr)
 
